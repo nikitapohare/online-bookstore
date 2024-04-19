@@ -25,9 +25,3 @@ Users Have Following Access for this online store site:-
 •	Buy Books.
 •	Get Payment Receipt.
 •	Order Status
-
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
-
-
